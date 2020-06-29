@@ -8,7 +8,7 @@ It can route incoming emails to controller-like mailboxes for processing in Rail
 # Usage
 
 ```
-bundle install
+bundle install # To install the gems
 
-bundle exec rails s
+bundle exec rails s # To start the sever
 ```
